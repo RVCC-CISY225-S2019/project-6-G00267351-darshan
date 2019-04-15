@@ -29,5 +29,5 @@ You are going to have to download and add the files from your Project 5 into thi
 
 ![Screens](https://github.com/RVCC-CISY225-S2019/project-6-G00267351-darshan/blob/master/readme-src/i1.png)
 ![](https://github.com/RVCC-CISY225-S2019/project-6-G00267351-darshan/blob/master/readme-src/i2.png)
-![](https://github.com/RVCC-CISY225-S2019/project-6-G00267351-darshan/blob/master/readme-src/i3.png)
-![](https://github.com/RVCC-CISY225-S2019/project-6-G00267351-darshan/blob/master/readme-src/i4.png)
+![](https://github.com/RVCC-CISY225-S2019/project-6-G00267351-darshan/blob/master/readme-src/i3.PNG)
+![](https://github.com/RVCC-CISY225-S2019/project-6-G00267351-darshan/blob/master/readme-src/i4.PNG)
