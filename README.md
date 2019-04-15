@@ -27,10 +27,10 @@ You are going to have to download and add the files from your Project 5 into thi
 
 **You Must Have a Perfect Project 5 Repo. Make all changes to P5 before starting this project. Your grade depends on this. If you need help, ask me for help.**
 
-!Screen of samsung galaxy j7 (https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i1.png)
+!Screen of samsung galaxy j7 (https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i1.PNG)
 
-(https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i2.png)
+(https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i2.PNG)
 
-(https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i3.png)
+(https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i3.PNG)
 
-(https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i4.png)
+(https://github.com/G00267351-darshan/nav-demo/blob/master/readme-src/i4.PNG)
